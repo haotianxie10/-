@@ -1,0 +1,51 @@
+body{
+  background-color: pink;
+}
+.front{
+  text-align: center;
+  vertical-align: middle;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content{
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  background-color: whitesmoke;
+  width: 600px;
+  vertical-align: middle;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50px;
+  color: rgba(4, 80, 143, 0.747);
+  padding-bottom: 20px;
+}
+button
+{
+  border:solid 10px #4d4e53;
+  border-radius:10px 40px 40px 10px;
+}
+.xuanxiang{
+  width: 100px;
+  height: 120px;
+  transform: scale(1);
+}
+.xuanxiang:hover{
+  transform: scale(1.4);
+  cursor: pointer;
+}
+.Daxuanxiang{
+  width: 200px;
+  max-width: 100%;
+  transform: scale(1);
+}
+button{
+  cursor: pointer;
+}
+.xin{
+  cursor: pointer;
+}
+.shiping{
+  max-width: 100%;
+  width: 300px;
+}
